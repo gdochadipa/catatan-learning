@@ -12,7 +12,7 @@ I am a Software Engineer with over **4 years of experience** working in **Fintec
 
 My main strengths are building reliable APIs and integrating them with clean user interfaces. On the backend, I use **Go**, **Node.js**, and **TypeScript** on **AWS**. On the frontend, I have strong experience with **Vue.js**, and I have recently been actively building projects with **React** to match Rakuten's stack. 
 
-For example, at my previous job, I built a Stripe billing system for over 4,000 global users, and I optimized slow database queries to make reports 20% faster.
+For example, at my current job, I integrating our system to Stripe billing system for over 4,000 global users, and I optimized slow database queries to make reports 20% faster.
 
 I am very excited about this SDE role at **GATD** because it perfectly matches my UI and API skills. I am also very eager to move to Japan and contribute to Rakuten's global team. 
 

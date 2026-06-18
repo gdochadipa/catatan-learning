@@ -15,7 +15,7 @@ The language used here is straightforward, easy to speak, and natural for non-na
 ### Simple Answer (STAR):
 * **Situation:** At my previous job, I built frontend websites using Vue.js for a marketplace that had over 50 active users daily. However, I know that Rakuten uses React and TypeScript for this role.
 * **Task:** I needed to make sure I could learn React quickly and start writing production-ready code without slowing down the team.
-* **Action:** I compared both frameworks. Vue 3 (Composition API) is very similar to React Hooks. They both use reactive states, side effects (like `useEffect`), and reusable functions. To get hands-on experience, I built a few React applications. For example, I created a React-TypeScript dashboard for my personal `oauth2-go-project`. In this project, I practiced React state management, hooks, and basic performance optimizations.
+* **Action:** I compared both frameworks. Vue 3 (Composition API) is very similar to React Hooks. They both use reactive states, side effects (like `useEffect`), and reusable functions. To get hands-on experience, I built a few React applications. For example, I created a minigame with tic tactoe  In this project, I practiced React state management, hooks, and basic performance optimizations.
 * **Result:** Since both Vue and React use TypeScript—which I use every day—it was easy for me to write clean and type-safe code. This practice helped me reduce frontend integration bugs by 35%. I am very confident that my strong frontend foundation and recent React practice will help me start working on Rakuten's tasks from my very first day.
 
 ---

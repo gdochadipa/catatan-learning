@@ -1,4 +1,4 @@
-@cv-template.pdf use the rakuten-hr-interview skill and start a mock interview. We will be and HR and you preare the question with the answer. and here is the requirement: 
+@cv-template.pdf use the rakuten-hr-interview skill and start a mock interview. you be play role as HR and I will be the the interviewer. you preare the question and I will be answer your question based on my cv. Start from i introduce my self. Here is the requirement: 
 "Job Opportunity with Rakuten Inc., Japan
 Learn about a new opportunity.
 Ravindra Karkihalli (ラビンドラ) profile picture	

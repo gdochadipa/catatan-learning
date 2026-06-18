@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "learning-path-builder": {
+      "source": "rysweet/amplihack",
+      "sourceType": "github",
+      "skillPath": "skills/learning-path-builder/SKILL.md",
+      "computedHash": "75ee948371b3c4240a37490e75f8d6f46e17f3574fb6440ff52483c38a925421"
+    }
+  }
+}
